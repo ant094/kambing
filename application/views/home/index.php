@@ -8,7 +8,7 @@
 				<button class="btn " style=" margin-top: -5px;"><i class=" fas  fa-user-circle " style=" font-size: 20px; color: #FFFFFF;" data-toggle="modal" data-target="#exampleModal"></i></button>
 			</div>
 			<div class="offset-1 col-8">
-				<i><b style="font-size: 20px; color: #FFFFFF; margin-left: -5px; font-family: 'Shadows Into Light', cursive;">SiKambing </b></i>
+				<i><b style="font-size: 20px; color: #FFFFFF; margin-left: -5px; font-family: 'Shadows Into Light', cursive;">SiPakar Kambing </b></i>
 			</div>
 			<div class=" col-1  ">
 				<button class="btn" style=" margin-top: -5px; margin-left: 30px;">

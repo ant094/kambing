@@ -1,7 +1,7 @@
 <div class="row" style="margin-top: 65px; margin-bottom: 25px; font-size: 15px; font-family: seriv; text-align: justify; ">
 	<div class=" offset-1 col-10 pl-4 pr-4  pt-2 pb-3" style="border: #c5c4c4 solid 1px; box-shadow: #c5c4c4 1px 1px 1px;">
 		<div class="col-12 p-0">
-			&nbsp;&nbsp;&nbsp;&nbsp; Si Kambing merupakan aplikasi yang ditujukan untuk membantu para peternak kambing dalam mengelola data ternaknya secara digital.
+			&nbsp;&nbsp;&nbsp;&nbsp; SiPakar Kambing merupakan aplikasi yang ditujukan untuk membantu para peternak kambing dalam mengelola data ternaknya secara digital.
 			Pada aplikasi Si Kambing, ada beberapa fitur utama seperti:
 		</div>
 

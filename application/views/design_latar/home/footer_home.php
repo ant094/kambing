@@ -4,7 +4,7 @@
 		<div class=" col-3 pl-0 " style=" text-align: center;">
 			<a href="<?= base_url("login/about") ?>" style="text-decoration: none;">
 				<i class="fas fa-info-circle" style="    color: #FFFFFF; font-size: 20px; padding-top: 0px; padding-bottom: 0px;"></i>
-				<p style="     color: #FFFFFF; font-size: 10px; margin-bottom: 0px;">SiKambing</p>
+				<p style="     color: #FFFFFF; font-size: 10px; margin-bottom: 0px;">SiPakar Kambing</p>
 			</a>
 
 		</div>

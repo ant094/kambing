@@ -13,7 +13,7 @@
 			<div class=" offset-3 col-8 mt-5 pt-3 pl-2" style="  background: #4dabf5;">
 				<!-- <i style="font-size: 1.5em; color: #FFFFFF;" class="fas fa-dna ml-3 "> </i> -->
 				<!-- <i><b style="font-size: 42px; color: #FFFFFF; margin-left: -5px; font-family: 'Mountains of Christmas', cursive;">SiKambing</b></i> -->
-				<i><b style="font-size: 42px; color: #FFFFFF; margin-left: -5px; font-family: 'Shadows Into Light', cursive;">SiKambing</b></i>
+				<i><b style="font-size: 42px; color: #FFFFFF; margin-left: -5px; font-family: 'Shadows Into Light', cursive;">SiPakar Kambing</b></i>
 		</h3>
 	</h3>
 	<div class="row" style="margin-top: 100px; ">
