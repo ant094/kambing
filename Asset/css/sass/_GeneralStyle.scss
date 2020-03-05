@@ -1,0 +1,43 @@
+html, body {
+  overflow-x: hidden;
+}
+
+.redNav {
+  background: #d8002f;
+}
+.bg-light2{
+  background: #fffffe !important;
+  box-shadow: 1px 0px 3px;
+}
+.card.mtNav{
+  margin-top: 80px;
+}
+.row.mtNav{
+  margin-top: 80px;
+}
+.row.mtNav2{
+  margin-top: 60px;
+}
+@media (max-device-width: 540px) {
+
+  .body {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .batas{
+    background: #ebebeb;
+    height: 9px;
+    margin-top: 0px;
+  }
+  .pkk_M_5{
+    padding-left: 5px;
+    padding-right:5px;
+  }
+
+  button.link{
+    border: 0px;
+    padding: 0px;
+  }
+
+ }

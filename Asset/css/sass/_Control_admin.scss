@@ -1,0 +1,96 @@
+@media (max-device-width: 540px) {
+
+  .add_paket{
+    height: 35px;
+    font-size: 17px;
+    text-align: center;
+    background: #f3db01;
+    padding: 0px;
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-family: bold;
+    position: fixed;
+    right: 0;
+        z-index: 1000;
+    bottom: 175px;
+  }
+
+  .add_produk{
+    height: 35px;
+    font-size: 17px;
+    text-align: center;
+    background: #49b626;
+    padding: 0px;
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-family: bold;
+        z-index: 1000;
+    position: fixed;
+    right: 0;
+    bottom: 135px;
+  }
+
+  .controlP_judul{
+    text-align: center;
+    font-family: auto;
+    font-size: 23px;
+  }
+
+  .row.center{
+    text-align: center
+  }
+
+  .search_controlP{
+    width: 75%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 0px;
+
+    border: 1px solid green;
+  }
+
+  button.search_controlP1{
+  padding: 0px;
+  height: 32px;
+  width: 13%;
+  margin-left: -57px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border: 0px;
+  background: #49b626;
+  }
+
+.kanan{
+  padding-left: 3px;
+}
+.kiri{
+  padding-right: 3px;
+}
+
+.fullSizeItem2{
+  width: 155px;
+height: 200px;
+object-fit: cover;
+object-position: center;
+}
+
+.p10{
+  padding: 10px;
+}
+
+.paginationMT{
+  margin-top: 15px;
+}
+}
